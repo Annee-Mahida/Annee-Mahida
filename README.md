@@ -2,7 +2,6 @@
 - 📫 How to reach me **annee.mahida15@gmail.com**
 <img align="right" alt="coding"width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 - ⚡ Fun fact **I love Math!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/annee1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/annee1512" height="30" width="40" /></a>
